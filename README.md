@@ -2,7 +2,14 @@
 
 ## distribute your message
 
-**how to use it**
+### How to use it
+
+1. Create account
+   Go to [OneSend](http://getonesend.com) and register
+
+2. Click on your name on the top right corner and choose [Keys](http://getonesend.com/app/settings/api-key)
+
+3. In the dashboard click on [Add Organization](http://getonesend.com/app/add-company) and follow the steps
 
 ```javascript
 const OneSend = require('onesend');
