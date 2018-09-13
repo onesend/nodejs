@@ -8,6 +8,5 @@
 const OneSend = require('onesend');
 
 OneSend.setApiKey('YOUR_API_KEY');
-
 OneSend.sendMessage('GROUP_KEY', 'Hello World');
 ```
