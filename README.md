@@ -4,8 +4,7 @@
 
 ### How to use it
 
-1. Create account
-  1. Go to [OneSend](http://getonesend.com) and register
+1. Go to [OneSend](http://getonesend.com) and register
 
 2. Click on your name on the top right corner and choose [Keys](http://getonesend.com/app/settings/api-key)
 
