@@ -1,13 +1,18 @@
 {
   "name": "onesend-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "distribute your message",
+  "keywords": [
+    "Message",
+    "CI",
+    "Webhooks"
+  ],
+  "author": "OneSend",
   "main": "index.js",
+  "homepage": "http://getonesend.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0",
