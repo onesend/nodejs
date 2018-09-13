@@ -5,7 +5,7 @@
 ### How to use it
 
 1. Create account
-   a. Go to [OneSend](http://getonesend.com) and register
+    a. Go to [OneSend](http://getonesend.com) and register
 
 2. Click on your name on the top right corner and choose [Keys](http://getonesend.com/app/settings/api-key)
 
