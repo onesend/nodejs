@@ -7,7 +7,7 @@ const sendMessage = (group_key, message) => {
   if (!group_key) throw new Error('group key is missing');
   if (!message) throw new Error('message is missing');
   let options = {
-    uri: `https://onesend-server.herokuapp.com/v1/message/${group_key}?api_key=${api_key}&type=node_module`,
+    uri: `https://api.getonesend.com/v1/message/${group_key}?api_key=${api_key}&type=node_module`,
     method: 'POST',
     body: { message },
     json: true,
